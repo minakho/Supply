@@ -1,0 +1,31 @@
+Body {
+    background-color: aliceblue;
+    
+}
+
+#navbar navbar-light bg-faded{
+    background-color: aqua;
+}
+body{
+    padding-top: 70px;
+}
+.thumbnail img:hover{
+    transform: scale(1.2);
+}
+.thumbnail img{
+    transition: all 0.3s ease 0s;
+    width: 100%;
+}
+.thumbnail{
+    overflow: hidden;
+}
+.row{
+    margin-bottom: 6em;
+}
+.navbar-text  a{
+color: #9d9d9d;
+}
+.navbar-text  a:hover{
+color: #fff;
+}
+
